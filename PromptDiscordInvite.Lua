@@ -1,7 +1,7 @@
 -- // Made By: Sectly_playz#1404
 
 --[[ -- // How To:
-local Prompter = loadstring(game:HttpGet("",true))()
+local Prompter = loadstring(game:HttpGet("https://raw.githubusercontent.com/Sectly/ScriptsAndBits/main/PromptDiscordInvite.Lua",true))()
 
 Prompter:Prompt("nvU7yAyZfQ")
 --]]
